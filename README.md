@@ -8,6 +8,9 @@ This project will follow all the steps needed for machine learning pipeline depl
 Deployment steps can be found on the "Step to Heroku Deployment" file 
 
 End product: https://shradhdaml.herokuapp.com/
+![image](https://user-images.githubusercontent.com/73145549/153641058-0e49df48-2886-4b8f-bef8-94afb75b93e8.png)
 
-![image](https://user-images.githubusercontent.com/73145549/153640493-dc0ee0b8-8c6e-41aa-94ff-c409bce27372.png)
+![image](https://user-images.githubusercontent.com/73145549/153640930-9dc30a76-7875-4020-91cc-b3b178bc2211.png)
+
+
 
